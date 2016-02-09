@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Production or Bust</title>
+    <link>http://thomaswunderlich.github.io/</link>
+    <description>Recent content on Production or Bust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2016 19:54:08 -0500</lastBuildDate>
+    <atom:link href="http://thomaswunderlich.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://thomaswunderlich.github.io/about/</link>
+      <pubDate>Mon, 08 Feb 2016 19:54:08 -0500</pubDate>
+      
+      <guid>http://thomaswunderlich.github.io/about/</guid>
+      <description>&lt;p&gt;Operations-focused developer. It ain&amp;rsquo;t done until it&amp;rsquo;s working in production.&lt;/p&gt;
+
+&lt;p&gt;You can find me working as a developer, infrastructure engineer or project manager (or on unlucky days as an emergency DBA)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
